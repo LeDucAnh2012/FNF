@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SongManager>
+  <song id="1">
+    <nameSong>song1</nameSong>
+    <speed>1</speed>
+    <bpm>30</bpm>
+    <etc/>
+  </song>
+  <song id="2">
+    <nameSong>Song2</nameSong>
+    <speed>2</speed>
+    <bpm>60</bpm>
+    <etc/>
+  </song>
+  <song id="3">
+    <nameSong>Song3</nameSong>
+    <speed>3</speed>
+    <bpm>120</bpm>
+    <etc/>
+  </song>
+</SongManager>

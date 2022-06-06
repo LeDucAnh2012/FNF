@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21d2caf59caec9447b80501d1e660459, type: 3}
+  m_Name: DataSongs
+  m_EditorClassIdentifier: 
+  listSongConfig:
+  - spriteSong: {fileID: 0}
+    id: 0
+    week: 0
+    nameSong: Tutorial
+    song: {fileID: 8300000, guid: 381abf5a91cf8df49afd4a4a26176205, type: 3}
+    voice: {fileID: 8300000, guid: 381abf5a91cf8df49afd4a4a26176205, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 105adef8a03eb90449f6cb548bafb072, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 105adef8a03eb90449f6cb548bafb072, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 105adef8a03eb90449f6cb548bafb072, type: 3}
+    delay: 0
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 1
+    week: 0
+    nameSong: Bopeebo
+    song: {fileID: 8300000, guid: 5acc74ad3a862f148b2b841608cc3e13, type: 3}
+    voice: {fileID: 8300000, guid: e4937fda1d95ec244933b7c0359c53c3, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 6ddca18ace95763458bf24450f6fe2f1, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 3abea315d7e1ad143ab38ebcf4166b12, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: f1e412b699c2e6048a378952268238b0, type: 3}
+    delay: 0
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 2
+    week: 0
+    nameSong: Fresh
+    song: {fileID: 8300000, guid: 9006f9135d30a354e979843901633bf2, type: 3}
+    voice: {fileID: 8300000, guid: b4a3c9495ebdcb94c89cc20a03dd131a, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: dfa650e93a36bfa44b2b3ab47f265f26, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: b117590658133b34bbe29caff94b4dd2, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: c51c9d8a47c401a49b48e389e477477f, type: 3}
+    delay: 0
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 3
+    week: 0
+    nameSong: Dad-Battle
+    song: {fileID: 8300000, guid: cfa2db9e71710e74c8a45a845f6cf8f7, type: 3}
+    voice: {fileID: 8300000, guid: fb4025165ba73eb4c8d69a6474f27176, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: ceb7f0fafa60a034199f6598a6587921, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 68ff1e3b3e4bac247a121f74005f7037, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: d9cee709b7df9c6419660050307c0f3e, type: 3}
+    delay: 1.2
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 4
+    week: 0
+    nameSong: Spookeez
+    song: {fileID: 8300000, guid: 673ea3d4876aeac4a812028f5ace1d3f, type: 3}
+    voice: {fileID: 8300000, guid: eae72e93235c8ba49b11252190381253, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 8d8fd82e1a7386344b811353c809accc, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 6a0206014f808cc468e6d1b28e131759, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 27faf200795d0c842b6b2c5621a7d44b, type: 3}
+    delay: 1.2
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 5
+    week: 0
+    nameSong: South
+    song: {fileID: 8300000, guid: 972018688b6ff624abefb3d5da8a3f25, type: 3}
+    voice: {fileID: 8300000, guid: 36207a171b93b6343b4bc205fd1cdec9, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 16388b31fdbe04045b38b80147a5c753, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: b0446b5592270ab4bbc213a194366ae8, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 470c29606fcecaf4793094b0ba636c87, type: 3}
+    delay: 1.2
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 6
+    week: 0
+    nameSong: Pico
+    song: {fileID: 8300000, guid: 79eda31f5378a5449aecb0e663263733, type: 3}
+    voice: {fileID: 8300000, guid: 8154290e142b71c40a7cdff2a334cc0f, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 4dc5ff3950d08854b8a1d99bbf7712d4, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 247485ed7d5eeca4da47d25b71c9f0db, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 3b495a395c8f15f4ba2e193e211c42dc, type: 3}
+    delay: 0
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 7
+    week: 0
+    nameSong: Philly
+    song: {fileID: 8300000, guid: 07804873e24203f45a3c98d5dcf0343c, type: 3}
+    voice: {fileID: 8300000, guid: 36b84dd68ecbcfb449c53aebcd5c7808, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: f2914cb4a179e844b8929b58b533cb0f, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: ecd11f3e9f74b7744b202d752a847cea, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 7b9e39ba4f8046e42919f0df7fe488a2, type: 3}
+    delay: 1
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 8
+    week: 0
+    nameSong: Blammed
+    song: {fileID: 8300000, guid: 9105a234b2ec7624bbc2bf9527fc2547, type: 3}
+    voice: {fileID: 8300000, guid: c5736156e0bb29446bc9c9438048ee51, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: c8a4b3f3ea6143b4ea1bd9006af8e5b7, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: bfeb1590291dbdd47a6f80dd6777f123, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 45298d15335e2d046ba6536a8c9df6d9, type: 3}
+    delay: 1
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 9
+    week: 0
+    nameSong: Satin-Panties
+    song: {fileID: 8300000, guid: 4da0c251f057b9f42b05cb97985ecfc7, type: 3}
+    voice: {fileID: 8300000, guid: 2f9c78987f13a744583b52fbe7bf1978, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 7490774f0b48ca94685b6a0331f1e7aa, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 42f565cad1bb46148aca413bf95161bc, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 0ae1a4ecd2a5e7a4581e73742482010b, type: 3}
+    delay: 1.2
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 10
+    week: 0
+    nameSong: High
+    song: {fileID: 8300000, guid: 3468056e84325be42a2b51ef68722fde, type: 3}
+    voice: {fileID: 8300000, guid: 4336d43f827124948ac40e75d0bc4d4b, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: ad405805b373c4946ade3789c5ae289a, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 45769333e198e404384e264e92647e8e, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 128ab2c459606154885e4f2d145d32a6, type: 3}
+    delay: 1.2
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 11
+    week: 0
+    nameSong: Milf
+    song: {fileID: 8300000, guid: 094155beb6535684dbb6829bf2b7be5b, type: 3}
+    voice: {fileID: 8300000, guid: e899c8d02948a2340ab7207c49073756, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 51955e22e213cb647af14d01353c2614, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 8b42cb783cb2cbb4ebcc3c649fa7135d, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 29b4dbee75204bb479f75b2ab084bd1e, type: 3}
+    delay: 1.2
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 12
+    week: 0
+    nameSong: Cocoa
+    song: {fileID: 8300000, guid: 0f6ff5ee8df36f74b8be8bb9271b6db0, type: 3}
+    voice: {fileID: 8300000, guid: f16f7d341b50b404488ca2c4c6faf6c7, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: fd4c7389567ec1d4f8081cd64f04cb39, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 825c3b10956791746ae472eee005d543, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 06e4179be7ddd8448a8de4c629e96d79, type: 3}
+    delay: 0
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 13
+    week: 0
+    nameSong: Eggnog
+    song: {fileID: 8300000, guid: 099236097f6d30f4880f1c870b0548e5, type: 3}
+    voice: {fileID: 8300000, guid: c0088f11631f5514e8056e4d27d3de16, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 659bde6adf1a8374593171ce951c288e, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 013f25f8ae866d1468c6b000c2f4c18f, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 0254f75c949a84849952f2a138146198, type: 3}
+    delay: 1.2
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 14
+    week: 0
+    nameSong: Winter-Horrorland
+    song: {fileID: 8300000, guid: 07112dbbbef2dc94e8cb9da4974c1653, type: 3}
+    voice: {fileID: 8300000, guid: 23129344a6c57514980175718a6f3029, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 56586a0b6c94c15409d7d0d527ed2783, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 224db80ffd33b2c46a0f38eb7fd5427b, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 862764ce7b13bb743a1aafd0e9985d71, type: 3}
+    delay: 1.2
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 15
+    week: 0
+    nameSong: Senpai
+    song: {fileID: 8300000, guid: 4da0c251f057b9f42b05cb97985ecfc7, type: 3}
+    voice: {fileID: 8300000, guid: 2f9c78987f13a744583b52fbe7bf1978, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 5fd5fdf3b2ac2b247b0c066304c637e9, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 0cbe29467fac611468b300cd9ebbfe3c, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 1f6f936bc932a2f47bf2785c0e593cda, type: 3}
+    delay: 0
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 16
+    week: 0
+    nameSong: Roses
+    song: {fileID: 8300000, guid: 7b9b59b59c800af48bd47305713cb375, type: 3}
+    voice: {fileID: 8300000, guid: ef522de4a3b2a604b8007b3546de916b, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: ae0db5212996cc84f884a32782f26a63, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: f3f65c5d78431c441ab3cec30ee0d971, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 5e4476abb3b191f4da761134783c32d2, type: 3}
+    delay: 0
+    typeUnlockSong: 0
+    costSong: 2000
+  - spriteSong: {fileID: 0}
+    id: 17
+    week: 0
+    nameSong: Thorns
+    song: {fileID: 8300000, guid: f04e4b901284e6644bad90d003199c8c, type: 3}
+    voice: {fileID: 8300000, guid: 7099f377f65430a459e75f5ceb6b0461, type: 3}
+    jsonFileEazy: {fileID: 4900000, guid: 42d53c38a84f4634891036cfac344a1f, type: 3}
+    jsonFileNormal: {fileID: 4900000, guid: 359e0d799050ff043ac145eb654858be, type: 3}
+    jsonFileHard: {fileID: 4900000, guid: 6fae5873e8362bb43b8378d6face4b62, type: 3}
+    delay: 0
+    typeUnlockSong: 0
+    costSong: 2000

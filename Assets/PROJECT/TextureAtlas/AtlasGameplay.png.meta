@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: 8e0e9fc060ce8e14597694bfa3edea84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6313581145764744137
+    second: ScoreBar1
+  - first:
+      213: 4447001853494585943
+    second: ScoreBar3
+  - first:
+      213: -1773052952928739992
+    second: ScoreBar2
+  - first:
+      213: -908392700262967846
+    second: InfoBar
+  - first:
+      213: 277157794361172425
+    second: ArrowUp2
+  - first:
+      213: -6301784296003886478
+    second: ArrowR2
+  - first:
+      213: -4804374634352427919
+    second: ArrowL2
+  - first:
+      213: 7752041342369082547
+    second: ArrowDown2
+  - first:
+      213: 9009502592132263074
+    second: ArrowEnemy
+  - first:
+      213: -8580721038262801372
+    second: ArrowUp1
+  - first:
+      213: 8136280605167059504
+    second: ArrowR1
+  - first:
+      213: 158277415427500298
+    second: ArrowL1
+  - first:
+      213: 6563637851705468092
+    second: ArrowDown1
+  - first:
+      213: 1645465695431624229
+    second: TimeFrame
+  - first:
+      213: 384277689156468634
+    second: ScoreBar1a
+  - first:
+      213: 4567647406367286303
+    second: PauseIcon
+  - first:
+      213: -6323446871040150105
+    second: ButtonYellow
+  - first:
+      213: -1405171863844006452
+    second: ButtonViolet
+  - first:
+      213: -1371850402367400055
+    second: ButtonPink
+  - first:
+      213: 697723635499412967
+    second: ButtonGreen
+  - first:
+      213: 6868854053746079665
+    second: ButtonBlue
+  - first:
+      213: -8994829743487461305
+    second: HotIcon
+  - first:
+      213: 2871262843643871716
+    second: VideoadsIcon
+  - first:
+      213: 2527886066681564868
+    second: BackIcon
+  - first:
+      213: 8776596192587580356
+    second: FramePink1
+  - first:
+      213: 616194038577074543
+    second: FrameBlue1
+  - first:
+      213: 6775583223364610621
+    second: FrameViolet1
+  - first:
+      213: -833382109635571925
+    second: FrameBlue2
+  - first:
+      213: 682629710006125724
+    second: FrameViolet2
+  - first:
+      213: -6822515738865573927
+    second: FramePink2
+  - first:
+      213: 9136568647499279190
+    second: PointFrame
+  - first:
+      213: -986715746925458778
+    second: Lock
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScoreBar3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 431
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a6c01ef9ce6bd30800000000000000
+      internalID: 4447001853494585943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreBar2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1
+        width: 431
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d99bcbbb9d467e0800000000000000
+      internalID: -1773052952928739992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreBar1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 431
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734b6121667a168a0800000000000000
+      internalID: -6313581145764744137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrameBlue1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 56
+        width: 300
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61991e96392d8800800000000000000
+      internalID: 616194038577074543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FramePink1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 300
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c38a3c9cbbbcc970800000000000000
+      internalID: 8776596192587580356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrameViolet1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 306
+        width: 300
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a6eb60b05b70e50800000000000000
+      internalID: 6775583223364610621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FramePink2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 56
+        width: 255
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfd76e251e8151a0800000000000000
+      internalID: -6822515738865573927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrameBlue2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 361
+        width: 255
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f8101036b3f64f0800000000000000
+      internalID: -833382109635571925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrameViolet2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 306
+        width: 255
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c940b02ca10397900800000000000000
+      internalID: 682629710006125724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfoBar
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 611
+        width: 204
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 35, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad59448e6adb463f0800000000000000
+      internalID: -908392700262967846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HotIcon
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 556
+        width: 167
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748df444102fb2380800000000000000
+      internalID: -8994829743487461305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowL1
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 306
+        width: 160
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09e5828870523200800000000000000
+      internalID: 158277415427500298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowR1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 160
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03202ef3a10e9e070800000000000000
+      internalID: 8136280605167059504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowR2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 556
+        width: 160
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272ad8132909b88a0800000000000000
+      internalID: -6301784296003886478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowUp1
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 467
+        width: 159
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cef95ada72be880800000000000000
+      internalID: -8580721038262801372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowUp2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 846
+        width: 159
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1e0a7ab89a8d300800000000000000
+      internalID: 277157794361172425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowL2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 699
+        width: 160
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cb68789be635db0800000000000000
+      internalID: -4804374634352427919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDown2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 556
+        width: 155
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc2d006788c49b60800000000000000
+      internalID: 7752041342369082547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDown1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 717
+        width: 155
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46639b9d9b61b50800000000000000
+      internalID: 6563637851705468092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowEnemy
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 629
+        width: 146
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac21078fde280d70800000000000000
+      internalID: 9009502592132263074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PointFrame
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 860
+        width: 137
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b6a2cf6cc9bce70800000000000000
+      internalID: 9136568647499279190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TimeFrame
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 714
+        width: 136
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5260b4af45ed5d610800000000000000
+      internalID: 1645465695431624229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VideoadsIcon
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 116
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1cb2cf756c8d720800000000000000
+      internalID: 2871262843643871716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 629
+        width: 101
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa493a814b7e42f0800000000000000
+      internalID: -986715746925458778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackIcon
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 556
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cec63dfbfad41320800000000000000
+      internalID: 2527886066681564868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScoreBar1a
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 361
+        width: 4
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f7745b58a355500800000000000000
+      internalID: 384277689156468634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseIcon
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1
+        width: 45
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14a1cb9d1b836f30800000000000000
+      internalID: 4567647406367286303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

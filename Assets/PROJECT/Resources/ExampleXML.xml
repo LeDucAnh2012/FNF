@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExampleXML>
+  <namePlayer>unityEngine</namePlayer>
+  <age>12</age>
+  <adress>Nam Định</adress>
+  <domain owner="Lê Đức Anh" email="hihi@gmail.com">abc</domain>
+</ExampleXML>
